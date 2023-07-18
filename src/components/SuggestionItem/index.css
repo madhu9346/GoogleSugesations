@@ -1,0 +1,15 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: black;
+  font-weight: bold;
+  font-family: Bree Serif;
+}
+.arrow {
+  height: 30px;
+  margin-top: 15px;
+  width: 30px;
+  color: black;
+}
